@@ -3,4 +3,4 @@ HeroFight
 
 A little game of two heroes fighting
 
-hehe
+This code is just for fun
